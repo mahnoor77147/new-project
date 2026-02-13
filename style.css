@@ -1,0 +1,26 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.box1{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+.box2{
+    background-color: thistle;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+.box3{
+    background-color: coral;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
